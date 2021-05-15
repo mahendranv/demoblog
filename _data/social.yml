@@ -208,5 +208,5 @@ download:
   icon: icon-box-add
 devto:
   name: Dev.to
-  icon: fab fa-dev
+  icon: <i class="fab fa-dev"></i>
   prepend: https://dev.to/
