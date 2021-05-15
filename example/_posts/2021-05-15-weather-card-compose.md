@@ -19,6 +19,9 @@ Horizontal weather cards are the second portion in my forecast screen. It contai
 
 ![img](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s5niaz21lg6kw8cyel06.gif)
 
+* toc
+{:toc}
+
 ---
 
 ## Why box layout?
@@ -209,7 +212,7 @@ This is again an example for [thinking in compose](https://developer.android.com
 
 Here, the complete gist.
 
-{% gist https://gist.github.com/mahendranv/e380359f3c034a5f875ad7cdf3ca40bf %}
+{% gist e380359f3c034a5f875ad7cdf3ca40bf %}
 
 
 Happy composing!!
