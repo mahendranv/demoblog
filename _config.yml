@@ -44,7 +44,10 @@ author:
   name:                Mahendran Vadivalagan
   email:               mahevelaivm@gmail.com
   # # Used by `jekyll-seo-tag`:
-  # twitter:             <username>
+  twitter:             mahevelai
+  github:              mahendranv
+  devto:               mahendranv
+
 
 # Add links to the sidebar.
 menu:
@@ -88,7 +91,7 @@ remote_theme: hydecorp/hydejack@v9
  
 # Sidebar image and theme color of the site.
 accent_image:          none # /assets/img/sidebar-bg.jpg
-accent_color:          rgb(14,17,17)
+accent_color:          rgb(14,47,68)
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
@@ -113,14 +116,14 @@ font_code:             Fira Code, Menlo, Monaco, Consolas, monospace;
 defaults:
   # You can use this to provide a default accent color and background for
   # all pages under a given path:
-  - scope:
-      path:            hyde/
-    values:
-      accent_color:    rgb(38,139,210)
-      theme_color:     rgb(38,139,210)
-      accent_image:
-        background:    rgb(32,32,32)
-        overlay:       false
+  # - scope:
+  #     path:            hyde/
+  #   values:
+  #     accent_color:    rgb(38,139,210)
+  #     theme_color:     rgb(38,139,210)
+  #     accent_image:
+  #       background:    rgb(32,32,32)
+  #       overlay:       false
 
   # Don't include documents in assets in the sitemap
   - scope:
