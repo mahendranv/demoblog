@@ -211,7 +211,7 @@ This is again an example for [thinking in compose](https://developer.android.com
 
 ## Complete source
 
-Here, the complete gist.
+Here, the complete gist // demo.
 
 {% gist e380359f3c034a5f875ad7cdf3ca40bf %}
 
